@@ -3,7 +3,7 @@
 ```javascript
 {
     Codes: ["Javascript", "Typescript", "PHP", "Java", "C#", "Delphi", "Swift", "Go"]
-    Technologies: ["Docker", "Kubernetes"]
+    Technologies: ["Docker", "Kubernetes", "OpenShift]
     Pronouns: ["He", "Him"]
 }
 ```
